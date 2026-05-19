@@ -1,0 +1,12 @@
+[
+  {"id":1,"districtNameEnglish":"Bengaluru Urban","districtNameKannada":"ಬೆಂಗಳೂರು ನಗರ","districtCode":"BLR","latitude":12.9716,"longitude":77.5946,"heroCount":3},
+  {"id":2,"districtNameEnglish":"Mysuru","districtNameKannada":"ಮೈಸೂರು","districtCode":"MYS","latitude":12.2958,"longitude":76.6394,"heroCount":3},
+  {"id":3,"districtNameEnglish":"Belagavi","districtNameKannada":"ಬೆಳಗಾವಿ","districtCode":"BLG","latitude":15.8497,"longitude":74.4977,"heroCount":4},
+  {"id":4,"districtNameEnglish":"Dharwad","districtNameKannada":"ಧಾರವಾಡ","districtCode":"DWD","latitude":15.4589,"longitude":75.0078,"heroCount":2},
+  {"id":5,"districtNameEnglish":"Shivamogga","districtNameKannada":"ಶಿವಮೊಗ್ಗ","districtCode":"SMG","latitude":13.9299,"longitude":75.5681,"heroCount":2},
+  {"id":6,"districtNameEnglish":"Chitradurga","districtNameKannada":"ಚಿತ್ರದುರ್ಗ","districtCode":"CTA","latitude":14.2251,"longitude":76.3980,"heroCount":2},
+  {"id":7,"districtNameEnglish":"Vijayapura","districtNameKannada":"ವಿಜಯಪುರ","districtCode":"VJP","latitude":16.8302,"longitude":75.7100,"heroCount":1},
+  {"id":8,"districtNameEnglish":"Bidar","districtNameKannada":"ಬೀದರ್","districtCode":"BDR","latitude":17.9133,"longitude":77.5301,"heroCount":1},
+  {"id":9,"districtNameEnglish":"Gadag","districtNameKannada":"ಗದಗ","districtCode":"GDG","latitude":15.4319,"longitude":75.6355,"heroCount":1},
+  {"id":10,"districtNameEnglish":"Ballari","districtNameKannada":"ಬಳ್ಳಾರಿ","districtCode":"BLRural","latitude":15.1394,"longitude":76.9214,"heroCount":1}
+]
